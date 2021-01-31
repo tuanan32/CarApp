@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Image/green-black-geometric-background.jpg</file>
+        <file>ButtonControl.qml</file>
+        <file>Image/car-repair.png</file>
+        <file>Image/car_route.png</file>
+        <file>settingWindow.qml</file>
+        <file>Image/background-placeholder.jpg</file>
+        <file>Image/cancel button.png</file>
+        <file>Image/ok button.png</file>
+        <file>Image/ok_button_clicked.png</file>
+        <file>Image/cacel_button_clicked.png</file>
+        <file>accruedExpenses.qml</file>
+        <file>Image/icon-calculate.png</file>
+        <file>Image/icon-calculate-click.png</file>
+        <file>Image/radio_button_check.png</file>
+        <file>Image/radio_button_uncheck.png</file>
+        <file>RadioButtonS.qml</file>
+        <file>Image/home_button.png</file>
+    </qresource>
+</RCC>
